@@ -5,7 +5,3 @@ Programmatically implement the Viterbi algorithm and run it with the HMM in Figu
 
 
 ![Screenshot](alarm.png)
-
-![alt text](https://github.com/Bhadja/HMM-Decoding/blob/master/Screen%20Shot%202018-04-19%20at%2010.56.16%20PM.png)
-
-
